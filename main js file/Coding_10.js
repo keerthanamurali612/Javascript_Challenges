@@ -11,6 +11,6 @@ function array(num){
 
 }
 
-let num=[3,6,7,8,2,4,5]
+let num=[1, 3, 9, 15, 90]
 let sum=array(num)
 console.log(`the sum of numbers in an array of numbers = ${sum}`)
