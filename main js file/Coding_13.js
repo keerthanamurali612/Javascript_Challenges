@@ -5,7 +5,7 @@ function maxNumber(num){
 
     for (let i=1;i<num.length;i++){
 
-        if(num.length>max){
+        if(num[i] >max){
 
            max=num[i]; // Update max if a larger element is found
         }
@@ -13,6 +13,6 @@ function maxNumber(num){
     return max;
 }
 
-let num=[3,5,76,23,56,89,7];
+let num=[-5, 10, -3, 12, -9, 5, 90, 0, 1];
 let max=maxNumber(num);
 console.log(`the maximum number in an array of numbers=${max}`);
