@@ -1,1 +1,0 @@
-// Coding challenge #21: Create a function that will receive an array of numbers as argument and will return a new array with distinct elements
