@@ -63,9 +63,10 @@ document.querySelector('#custom').addEventListener('click',()=>{
     font-style: italic;
     border:${spacing} solid grey;
     font-size:2em;
+    
     `
 
-    console.log('%c Love Yourself ',style);
+    console.log('%c Change Your Life ',style);
 
 })
 
