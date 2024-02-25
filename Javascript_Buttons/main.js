@@ -60,7 +60,7 @@ document.querySelector('#custom').addEventListener('click',()=>{
     `padding:${spacing};
     background-color:green;
     color:white;
-    font-style: italic;
+    font-style: bold;
     border:${spacing} solid grey;
     font-size:2em;
     
