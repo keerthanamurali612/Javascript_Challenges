@@ -66,7 +66,7 @@ document.querySelector('#custom').addEventListener('click',()=>{
     
     `
 
-    console.log('%c Change Your Life ',style);
+    console.log('%c Set Me Free ',style);
 
 })
 
